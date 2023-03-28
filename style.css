@@ -5,7 +5,7 @@
     padding: 0px;
 
     font-family: 'Alkatra', cursive;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
 }
 .Bottom__contact{
     margin-top: 0.4rem;
@@ -34,8 +34,8 @@
 }
 
 .hero__section img{
-    background-image: url(Carpentry.jpg);
-    width: 110vw;
+    background-image: url(Welding.jpg);
+    width: 112vw;
     height: 80vh;
     object-fit: cover;
     background-position: center;
